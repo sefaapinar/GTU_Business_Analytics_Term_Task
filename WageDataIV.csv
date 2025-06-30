@@ -1,0 +1,500 @@
+wage,age,education_years,experience_years,gender,sector,region,marital_status,hours_worked_per_week,union_member
+30331.77,37,14,17,Female,IT,Central Anatolia,Other,50,No
+18380.81,24,5,13,Female,IT,Black Sea,Other,40,No
+25020.99,32,11,15,Male,Construction,Southeastern Anatolia,Other,44,No
+30172.42,40,12,22,Male,IT,Central Anatolia,Single,43,No
+27567.91,31,12,13,Female,Manufacturing,Marmara,Single,47,Yes
+33299.78,40,15,19,Male,Construction,Aegean,Married,42,Yes
+27703.95,36,14,16,Female,Construction,Southeastern Anatolia,Married,50,Yes
+34733.46,46,15,25,Male,Services,Southeastern Anatolia,Married,45,No
+29485.9,37,18,13,Male,Agriculture,Black Sea,Married,32,No
+36299.74,46,18,22,Male,Finance,Black Sea,Married,47,No
+34728.05,41,17,18,Female,Services,Central Anatolia,Other,50,No
+28703.53,35,20,9,Female,Agriculture,Southeastern Anatolia,Other,39,No
+20329.9,27,5,16,Male,Construction,Southeastern Anatolia,Other,47,Yes
+34085.3,58,9,43,Female,Finance,Eastern Anatolia,Married,54,Yes
+23167.69,25,5,14,Female,IT,Istanbul,Other,46,No
+31590.65,43,16,21,Female,Agriculture,Black Sea,Other,51,No
+34341.58,46,19,21,Female,Construction,Aegean,Other,43,No
+24698.77,27,10,11,Male,Construction,Central Anatolia,Other,45,No
+33182.96,34,20,8,Female,Services,Black Sea,Single,44,No
+18706.61,19,6,7,Female,Services,Eastern Anatolia,Married,43,No
+33833.6,23,20,0,Male,IT,Marmara,Married,44,No
+22846.27,22,12,4,Female,Public,Black Sea,Single,37,No
+26240.75,45,7,32,Female,Manufacturing,Marmara,Other,43,No
+38225.8,58,14,38,Female,Public,Mediterranean,Other,52,No
+21442.52,22,10,6,Male,Public,Southeastern Anatolia,Other,40,No
+25930.46,35,10,19,Male,Finance,Southeastern Anatolia,Married,40,No
+28042.88,43,11,26,Female,Finance,Central Anatolia,Married,45,No
+34611.83,37,18,13,Female,IT,Istanbul,Married,46,No
+39154.28,58,14,38,Male,Finance,Istanbul,Married,47,No
+29231.6,44,11,27,Male,Agriculture,Central Anatolia,Married,44,No
+31700.74,29,15,8,Male,IT,Central Anatolia,Single,45,No
+28859.24,24,17,1,Female,IT,Eastern Anatolia,Married,43,Yes
+19689.99,20,10,4,Female,Construction,Marmara,Other,39,No
+25919.76,27,13,8,Male,Construction,Central Anatolia,Married,45,No
+31289.86,51,7,38,Female,Construction,Marmara,Single,49,No
+26275.78,42,8,28,Female,Manufacturing,Black Sea,Other,48,Yes
+33218.7,52,16,30,Female,Agriculture,Black Sea,Single,36,Yes
+22617.22,33,8,19,Female,Agriculture,Mediterranean,Other,46,No
+24833.61,19,14,0,Female,Construction,Marmara,Married,41,Yes
+33290.93,41,17,18,Female,Public,Eastern Anatolia,Single,52,Yes
+17653.58,27,7,14,Female,Manufacturing,Black Sea,Other,47,No
+37739.75,55,15,34,Male,Public,Southeastern Anatolia,Married,49,Yes
+26147.87,39,10,23,Male,Services,Southeastern Anatolia,Other,45,Yes
+32981.63,43,20,17,Male,Agriculture,Black Sea,Single,45,No
+36947.77,60,14,40,Male,Agriculture,Black Sea,Single,52,No
+40729.54,56,18,32,Male,Public,Black Sea,Single,50,No
+32603.19,44,15,23,Male,Manufacturing,Marmara,Single,46,Yes
+25703.4,46,6,34,Male,Agriculture,Southeastern Anatolia,Married,44,No
+35796.79,64,16,42,Male,Public,Southeastern Anatolia,Other,36,No
+43348.93,55,20,29,Male,IT,Aegean,Married,47,Yes
+31678.95,37,15,16,Female,IT,Black Sea,Single,44,Yes
+35693.36,44,18,20,Female,Finance,Mediterranean,Other,48,Yes
+40029.87,58,19,33,Male,Manufacturing,Black Sea,Single,49,No
+26103.8,37,9,22,Female,Public,Eastern Anatolia,Married,51,No
+33363.54,61,9,46,Female,Finance,Eastern Anatolia,Married,47,No
+29954.71,36,15,15,Male,IT,Southeastern Anatolia,Married,40,No
+24676.11,37,12,19,Male,Manufacturing,Black Sea,Other,34,No
+37742.17,52,19,27,Male,Finance,Istanbul,Other,41,No
+41808.35,64,19,39,Female,Construction,Eastern Anatolia,Single,52,No
+23404.01,19,12,1,Female,Manufacturing,Black Sea,Other,54,No
+31069.84,47,10,31,Male,Services,Mediterranean,Other,44,No
+34029.6,51,18,27,Female,Construction,Central Anatolia,Married,38,No
+25775.56,39,10,23,Female,Finance,Black Sea,Single,42,No
+29188.16,20,18,0,Female,Public,Mediterranean,Married,51,No
+22919.24,23,13,4,Male,Construction,Southeastern Anatolia,Single,42,No
+28332.45,32,16,10,Female,Construction,Southeastern Anatolia,Single,48,No
+27456.18,44,7,31,Female,Finance,Aegean,Other,46,Yes
+31564.82,27,16,5,Female,Public,Marmara,Married,49,No
+25357.85,26,13,7,Female,Public,Eastern Anatolia,Other,54,No
+36348.8,50,15,29,Female,IT,Marmara,Other,48,No
+28116.96,49,8,35,Female,Services,Black Sea,Other,46,Yes
+30326.88,23,17,0,Female,Public,Marmara,Single,55,Yes
+38113.66,58,19,33,Male,Agriculture,Eastern Anatolia,Married,47,No
+27667.36,53,9,38,Male,Agriculture,Eastern Anatolia,Married,41,No
+19089.42,19,7,6,Female,Services,Black Sea,Other,48,No
+25640.25,46,5,35,Male,Manufacturing,Southeastern Anatolia,Single,47,No
+26593.37,21,16,0,Female,Finance,Eastern Anatolia,Married,43,No
+24720.1,18,15,0,Female,Manufacturing,Istanbul,Married,42,No
+29967.84,36,15,15,Female,Agriculture,Istanbul,Other,44,Yes
+28638.05,43,9,28,Male,Public,Central Anatolia,Single,42,Yes
+25951.82,42,12,24,Female,Services,Eastern Anatolia,Other,44,No
+25271.21,27,15,6,Female,Manufacturing,Aegean,Married,41,No
+28874.95,32,14,12,Male,Manufacturing,Central Anatolia,Single,47,No
+33047.34,39,20,13,Male,Finance,Southeastern Anatolia,Other,47,No
+25326.58,38,8,24,Female,Construction,Eastern Anatolia,Married,47,Yes
+30477.56,39,17,16,Male,Agriculture,Istanbul,Other,45,No
+33797.05,53,12,35,Male,Public,Aegean,Other,44,No
+31546.49,51,13,32,Female,Services,Black Sea,Other,52,No
+33695.42,47,17,24,Female,Manufacturing,Central Anatolia,Single,45,Yes
+34862.26,42,17,19,Female,Finance,Aegean,Married,51,No
+40023.03,62,20,36,Male,Construction,Eastern Anatolia,Married,40,No
+27147.45,45,7,32,Male,Agriculture,Mediterranean,Married,48,No
+16864.1,18,7,5,Male,Agriculture,Aegean,Married,41,No
+38582.79,62,17,39,Female,Finance,Aegean,Single,42,Yes
+23285.89,21,15,0,Male,Services,Southeastern Anatolia,Other,43,Yes
+25306.49,24,10,8,Male,Manufacturing,Istanbul,Married,43,Yes
+19762.35,26,6,14,Female,Services,Black Sea,Single,43,No
+29469.41,53,6,41,Female,Finance,Eastern Anatolia,Other,51,No
+32799.86,36,19,11,Female,Finance,Aegean,Single,45,No
+19065.66,18,9,3,Male,Services,Eastern Anatolia,Single,46,Yes
+26184,27,11,10,Female,IT,Istanbul,Married,43,No
+31111.05,53,9,38,Male,Construction,Southeastern Anatolia,Married,49,No
+21935.25,26,12,8,Male,Agriculture,Eastern Anatolia,Other,47,No
+31330.16,62,6,50,Female,IT,Marmara,Other,43,No
+37950.92,63,14,43,Female,Public,Istanbul,Married,37,No
+30400.62,59,6,47,Female,Agriculture,Istanbul,Single,46,No
+35932.87,49,18,25,Female,Agriculture,Black Sea,Married,48,No
+29322.1,49,9,34,Female,Construction,Central Anatolia,Other,40,No
+23297.19,23,14,3,Male,Public,Southeastern Anatolia,Single,44,No
+37481.13,55,19,30,Male,Manufacturing,Southeastern Anatolia,Single,48,No
+29223.63,34,16,12,Male,Public,Black Sea,Single,37,No
+26763.57,27,14,7,Female,Manufacturing,Marmara,Married,42,No
+31215.88,44,11,27,Male,Public,Eastern Anatolia,Married,47,No
+33528.62,52,11,35,Female,Services,Mediterranean,Other,51,No
+35638.43,38,16,16,Female,Finance,Marmara,Single,56,No
+38061.36,42,20,16,Male,Public,Central Anatolia,Single,55,No
+34371.5,45,16,23,Male,IT,Southeastern Anatolia,Married,46,Yes
+41749.96,64,15,43,Female,IT,Istanbul,Other,43,No
+30153.33,32,17,9,Male,Construction,Southeastern Anatolia,Other,50,No
+24258.15,21,13,2,Female,Finance,Marmara,Single,42,No
+26527.78,46,6,34,Male,Finance,Mediterranean,Married,41,No
+27959.47,26,15,5,Male,Manufacturing,Aegean,Single,43,Yes
+36404.49,44,20,18,Male,Agriculture,Aegean,Married,43,No
+26899.53,43,8,29,Male,Construction,Black Sea,Other,47,No
+31666.62,36,17,13,Male,IT,Southeastern Anatolia,Single,42,Yes
+28049.16,45,9,30,Female,IT,Southeastern Anatolia,Single,45,No
+30672.17,34,14,14,Male,Manufacturing,Central Anatolia,Single,53,No
+31640.16,60,7,47,Male,IT,Southeastern Anatolia,Other,46,No
+38206.39,58,13,39,Male,IT,Mediterranean,Single,53,No
+37289.24,59,17,36,Female,Manufacturing,Southeastern Anatolia,Other,51,Yes
+26893.4,37,11,20,Female,IT,Eastern Anatolia,Married,48,No
+36129.82,62,16,40,Female,Agriculture,Marmara,Other,43,No
+38302.93,57,18,33,Female,Services,Black Sea,Married,50,No
+37757.82,56,20,30,Female,Construction,Mediterranean,Other,44,Yes
+26692.94,40,9,25,Male,Agriculture,Central Anatolia,Other,45,No
+35059.57,64,12,46,Male,Agriculture,Eastern Anatolia,Single,47,No
+28442.23,49,8,35,Male,Services,Eastern Anatolia,Other,45,No
+43404.55,64,20,38,Female,Finance,Marmara,Single,41,No
+36917.85,50,20,24,Female,Construction,Aegean,Married,37,No
+38010.38,63,14,43,Male,Agriculture,Mediterranean,Married,50,Yes
+32773.39,22,19,0,Female,IT,Marmara,Single,48,No
+34572.26,60,14,40,Female,Services,Eastern Anatolia,Married,36,No
+32982.08,51,16,29,Female,Finance,Central Anatolia,Other,41,No
+33002.78,57,7,44,Male,Construction,Marmara,Single,46,No
+30232.75,28,17,5,Male,Public,Aegean,Single,47,No
+16997.15,20,7,7,Female,Manufacturing,Eastern Anatolia,Single,37,No
+37862.05,50,18,26,Female,IT,Marmara,Married,45,No
+29966.67,28,18,4,Female,Services,Mediterranean,Married,48,No
+29669.73,33,17,10,Female,Manufacturing,Aegean,Other,43,Yes
+23027.83,35,5,24,Male,Finance,Mediterranean,Other,46,No
+28919.64,47,11,30,Female,Finance,Mediterranean,Single,43,No
+23201,27,10,11,Male,Public,Mediterranean,Other,50,No
+26845.33,35,12,17,Male,Agriculture,Marmara,Married,41,Yes
+31530.62,55,7,42,Male,Agriculture,Aegean,Other,39,Yes
+35278.26,36,20,10,Female,Construction,Marmara,Married,45,Yes
+36864.22,53,15,32,Male,Services,Marmara,Other,38,No
+24781.8,30,11,13,Male,Services,Marmara,Married,34,No
+35931.68,63,12,45,Female,Finance,Eastern Anatolia,Married,50,No
+22316.54,20,13,1,Female,Construction,Southeastern Anatolia,Other,40,No
+26575.76,27,15,6,Female,Manufacturing,Istanbul,Other,38,No
+32344.72,55,14,35,Male,Agriculture,Eastern Anatolia,Married,41,Yes
+28832.92,18,20,0,Female,Agriculture,Aegean,Single,41,No
+35050.88,44,14,24,Male,Finance,Istanbul,Other,44,No
+41572.13,63,20,37,Male,Services,Istanbul,Married,40,No
+31664.66,25,19,0,Female,Finance,Istanbul,Other,47,No
+32238.28,63,9,48,Male,Services,Southeastern Anatolia,Other,48,No
+41396.76,59,20,33,Male,Construction,Marmara,Other,39,No
+23830.7,34,7,21,Male,Public,Black Sea,Other,42,No
+28829.66,26,18,2,Male,Manufacturing,Central Anatolia,Other,42,No
+25282.56,23,12,5,Female,IT,Aegean,Single,44,Yes
+39818.4,60,19,35,Male,Public,Black Sea,Single,50,No
+33958.57,42,19,17,Female,Public,Southeastern Anatolia,Single,51,No
+41129.84,56,18,32,Male,Services,Southeastern Anatolia,Married,57,No
+34993.63,45,18,21,Male,Services,Central Anatolia,Single,34,No
+31682.29,50,11,33,Female,Services,Istanbul,Single,40,No
+33113.65,54,6,42,Male,Public,Marmara,Married,54,Yes
+25235.7,26,12,8,Male,Finance,Central Anatolia,Single,36,Yes
+27039.89,35,8,21,Male,Manufacturing,Black Sea,Other,54,No
+33132.75,38,17,15,Male,Finance,Black Sea,Single,46,No
+22771.21,19,11,2,Male,Services,Central Anatolia,Single,46,No
+37513.61,60,20,34,Male,Agriculture,Southeastern Anatolia,Single,39,No
+36343.55,55,16,33,Female,Finance,Aegean,Other,43,No
+39597.78,57,18,33,Female,Manufacturing,Mediterranean,Other,54,No
+30127.56,53,7,40,Female,Agriculture,Marmara,Other,45,No
+37166.7,60,19,35,Male,Manufacturing,Black Sea,Other,43,No
+39761.54,54,20,28,Male,Services,Black Sea,Married,47,No
+27667.65,32,14,12,Male,Finance,Central Anatolia,Other,44,No
+35580.8,45,15,24,Female,IT,Marmara,Other,47,No
+31459.12,35,18,11,Male,Construction,Central Anatolia,Other,41,Yes
+30959.7,51,8,37,Female,Services,Istanbul,Other,45,No
+33927.31,39,14,19,Male,Public,Marmara,Married,42,Yes
+26318.99,28,12,10,Male,IT,Istanbul,Single,36,Yes
+24472.48,30,8,16,Male,Public,Black Sea,Single,47,Yes
+21124.08,21,12,3,Female,Manufacturing,Southeastern Anatolia,Other,39,No
+25378.94,39,6,27,Male,Public,Istanbul,Other,44,No
+21206.22,24,5,13,Female,IT,Marmara,Other,50,No
+29799.64,60,8,46,Male,IT,Eastern Anatolia,Single,38,No
+38463.36,41,20,15,Male,Services,Marmara,Single,48,No
+22418.75,21,15,0,Female,Agriculture,Central Anatolia,Other,44,No
+37551.16,45,20,19,Male,Services,Istanbul,Single,40,No
+30975.98,32,13,13,Male,Manufacturing,Aegean,Married,55,No
+20596.76,18,11,1,Male,Public,Eastern Anatolia,Other,45,No
+19596,20,14,0,Male,Agriculture,Southeastern Anatolia,Other,42,No
+26780.54,31,13,12,Female,Finance,Mediterranean,Married,41,No
+30164.17,55,7,42,Female,Construction,Central Anatolia,Married,49,No
+27239.5,18,16,0,Male,IT,Central Anatolia,Single,42,No
+32145.02,55,9,40,Male,Agriculture,Aegean,Married,49,No
+36001.23,55,16,33,Female,Finance,Mediterranean,Other,45,No
+30762.46,38,16,16,Male,Agriculture,Black Sea,Single,51,No
+27597.7,46,8,32,Female,Services,Mediterranean,Married,40,No
+17476.14,22,6,10,Male,Finance,Southeastern Anatolia,Single,40,No
+27104.68,27,18,3,Female,Construction,Southeastern Anatolia,Single,44,No
+30737.04,45,13,26,Female,IT,Eastern Anatolia,Single,44,Yes
+22995.61,38,6,26,Female,Manufacturing,Black Sea,Single,43,No
+33508.58,24,20,0,Female,Manufacturing,Central Anatolia,Married,58,No
+22349.38,20,6,8,Male,Agriculture,Istanbul,Other,55,No
+40289.29,62,17,39,Male,Finance,Southeastern Anatolia,Other,46,No
+40865.91,64,20,38,Female,Agriculture,Aegean,Married,47,No
+26449.95,37,10,21,Female,Public,Aegean,Other,44,No
+22531.05,36,8,22,Female,Construction,Aegean,Single,40,No
+30157.45,52,7,39,Female,IT,Marmara,Single,44,No
+21993.16,21,11,4,Male,Agriculture,Black Sea,Single,49,No
+20982.85,22,7,9,Female,Public,Black Sea,Married,52,No
+26678.21,18,17,0,Female,Finance,Southeastern Anatolia,Single,50,No
+13902.3,21,6,9,Female,Construction,Southeastern Anatolia,Single,37,No
+27058.09,29,14,9,Female,IT,Aegean,Married,44,No
+34044.54,44,20,18,Female,Manufacturing,Black Sea,Single,38,Yes
+39882.07,59,18,35,Female,Public,Black Sea,Single,51,No
+30583.06,40,16,18,Female,Finance,Southeastern Anatolia,Other,43,No
+31041.11,42,11,25,Male,Construction,Marmara,Married,45,Yes
+33011.65,38,16,16,Female,Public,Istanbul,Single,47,No
+34350.51,41,14,21,Female,Agriculture,Istanbul,Single,59,No
+29047.1,42,13,23,Female,Services,Eastern Anatolia,Single,46,No
+31167.93,62,7,49,Male,Manufacturing,Black Sea,Single,44,No
+37209.05,63,19,38,Male,Agriculture,Central Anatolia,Other,39,No
+35697.48,49,13,30,Male,Agriculture,Istanbul,Other,52,Yes
+26596.66,49,9,34,Female,Finance,Eastern Anatolia,Other,44,No
+24561.58,22,12,4,Female,Finance,Mediterranean,Other,53,No
+34818.58,53,13,34,Female,Construction,Central Anatolia,Married,51,No
+38693.45,63,18,39,Male,Finance,Black Sea,Single,43,No
+37385.65,59,17,36,Female,Public,Istanbul,Other,38,No
+40329.17,59,18,35,Male,Manufacturing,Marmara,Single,46,No
+28416.66,56,5,45,Male,Agriculture,Mediterranean,Married,42,Yes
+25917.31,33,13,14,Male,Construction,Eastern Anatolia,Single,45,No
+35406.56,50,14,30,Male,Manufacturing,Istanbul,Single,50,No
+23416.98,38,5,27,Male,Finance,Black Sea,Other,37,No
+26831.38,26,10,10,Female,Finance,Istanbul,Other,46,No
+28439.49,23,18,0,Female,Public,Southeastern Anatolia,Married,49,No
+33011.72,62,8,48,Male,Finance,Mediterranean,Single,49,No
+32568.1,52,14,32,Female,Agriculture,Istanbul,Other,38,No
+32603.62,56,9,41,Female,IT,Aegean,Other,47,No
+23804.58,39,5,28,Male,Agriculture,Marmara,Other,51,No
+30899.73,58,10,42,Male,Agriculture,Southeastern Anatolia,Married,47,No
+28342.21,22,20,0,Female,Finance,Southeastern Anatolia,Single,44,No
+39089.15,59,18,35,Female,Manufacturing,Istanbul,Other,51,No
+35036.93,40,20,14,Female,Finance,Marmara,Single,42,No
+27828.15,34,14,14,Female,Manufacturing,Southeastern Anatolia,Married,37,Yes
+20900.81,29,7,16,Male,Manufacturing,Central Anatolia,Single,44,No
+32697.35,40,15,19,Female,Manufacturing,Mediterranean,Other,48,No
+29708.12,33,13,14,Male,Construction,Central Anatolia,Single,50,Yes
+30207.1,20,19,0,Male,Services,Eastern Anatolia,Single,48,Yes
+28478.04,47,7,34,Female,Finance,Central Anatolia,Married,49,No
+30993.86,39,14,19,Female,Construction,Marmara,Married,50,No
+20491.85,26,8,12,Female,Agriculture,Aegean,Single,43,No
+30221.98,46,11,29,Male,Construction,Southeastern Anatolia,Single,44,Yes
+40374.86,64,17,41,Male,Public,Marmara,Single,51,No
+36743.04,54,14,34,Male,IT,Southeastern Anatolia,Married,39,No
+27889.01,40,12,22,Male,Manufacturing,Black Sea,Married,47,No
+25277.67,30,12,12,Female,Finance,Aegean,Single,41,No
+31141.71,49,13,30,Male,Public,Southeastern Anatolia,Married,51,No
+40632.09,63,18,39,Male,Finance,Central Anatolia,Other,45,No
+41438.54,64,19,39,Female,IT,Black Sea,Married,45,No
+36988.31,40,20,14,Male,Public,Black Sea,Married,54,No
+39604.33,62,18,38,Male,Finance,Eastern Anatolia,Married,40,No
+24156.19,34,11,17,Female,Agriculture,Black Sea,Other,46,No
+37638.42,57,17,34,Male,Manufacturing,Black Sea,Other,44,No
+30662.67,38,13,19,Male,Public,Istanbul,Other,48,No
+22977.38,19,10,3,Male,Agriculture,Aegean,Single,55,No
+37568.32,54,19,29,Male,Manufacturing,Central Anatolia,Single,42,Yes
+17829.66,23,5,12,Female,Services,Marmara,Other,39,No
+39370.35,61,19,36,Male,Agriculture,Central Anatolia,Single,41,Yes
+26695.69,35,13,16,Female,Construction,Central Anatolia,Single,44,No
+37094.83,47,16,25,Male,Finance,Istanbul,Single,45,Yes
+29745.75,39,16,17,Female,Manufacturing,Mediterranean,Other,46,No
+38895.51,50,19,25,Female,Public,Southeastern Anatolia,Married,54,No
+35428.44,47,16,25,Female,IT,Southeastern Anatolia,Other,53,No
+33199.98,34,16,12,Male,Public,Marmara,Other,52,No
+33257.34,60,6,48,Male,Construction,Black Sea,Single,58,No
+33895.63,49,14,29,Male,Finance,Eastern Anatolia,Single,49,No
+34874.02,59,8,45,Female,Construction,Marmara,Married,51,No
+32857.61,31,17,8,Male,Public,Mediterranean,Married,49,No
+29190.84,27,14,7,Male,Finance,Southeastern Anatolia,Married,48,Yes
+40058.11,64,16,42,Male,IT,Eastern Anatolia,Married,47,No
+29683.4,53,6,41,Male,Manufacturing,Marmara,Other,43,No
+27588.67,51,6,39,Female,Finance,Eastern Anatolia,Married,39,No
+24973.85,26,17,3,Female,Agriculture,Central Anatolia,Other,44,No
+31710.96,59,6,47,Male,Finance,Aegean,Single,48,No
+27175.2,45,6,33,Male,Construction,Central Anatolia,Married,45,No
+20065.06,28,5,17,Male,Construction,Istanbul,Single,40,No
+28984.18,31,20,5,Female,Construction,Black Sea,Single,44,No
+38474.65,56,17,33,Male,IT,Southeastern Anatolia,Other,44,No
+37048.9,64,12,46,Female,Finance,Eastern Anatolia,Married,45,No
+27219.98,36,11,19,Female,Finance,Marmara,Other,47,No
+25668.01,32,11,15,Male,Services,Black Sea,Single,49,No
+35946.81,45,18,21,Male,IT,Aegean,Married,42,No
+36152.81,41,16,19,Male,Manufacturing,Marmara,Single,50,Yes
+21789.26,25,9,10,Female,Manufacturing,Southeastern Anatolia,Single,51,Yes
+31194.7,60,8,46,Female,Manufacturing,Eastern Anatolia,Married,47,No
+21724.92,26,7,13,Male,Manufacturing,Eastern Anatolia,Married,48,No
+39573.85,64,16,42,Female,Manufacturing,Central Anatolia,Married,50,No
+38594.07,50,18,26,Male,Public,Aegean,Other,40,Yes
+31480.11,50,10,34,Male,Construction,Aegean,Other,50,No
+22097.79,36,5,25,Female,IT,Southeastern Anatolia,Single,41,Yes
+17732.43,20,6,8,Female,Public,Eastern Anatolia,Married,42,No
+31251,27,20,1,Female,IT,Black Sea,Single,46,No
+30080.9,57,11,40,Female,Services,Aegean,Single,34,No
+40727.46,64,18,40,Male,Finance,Aegean,Single,46,No
+37106.52,59,16,37,Male,Agriculture,Marmara,Single,50,No
+20626.25,18,12,0,Male,Construction,Southeastern Anatolia,Single,37,No
+28779.6,46,9,31,Female,Services,Central Anatolia,Married,50,No
+30369.27,51,7,38,Male,Public,Marmara,Other,42,No
+29286.74,30,16,8,Female,Agriculture,Marmara,Married,46,Yes
+27625.14,18,18,0,Female,Finance,Mediterranean,Married,42,No
+36950.1,51,16,29,Female,Services,Istanbul,Married,48,Yes
+35234.01,46,14,26,Male,Finance,Mediterranean,Other,50,Yes
+33077.68,64,6,52,Female,Finance,Aegean,Other,48,No
+31492.03,30,20,4,Female,IT,Eastern Anatolia,Other,45,No
+34142.5,46,18,22,Female,Agriculture,Istanbul,Married,43,No
+34153.29,56,11,39,Female,IT,Istanbul,Other,45,No
+35409.87,41,20,15,Female,Finance,Eastern Anatolia,Single,48,Yes
+34919.92,43,15,22,Female,Services,Istanbul,Other,48,No
+28223.32,34,15,13,Female,Finance,Eastern Anatolia,Married,48,Yes
+27500.95,24,17,1,Female,Public,Istanbul,Married,39,No
+32590.44,30,18,6,Female,Finance,Marmara,Single,45,Yes
+26216.49,22,16,0,Female,IT,Black Sea,Other,42,No
+24305.02,43,7,30,Female,Agriculture,Southeastern Anatolia,Other,48,No
+20170.34,20,11,3,Female,Services,Southeastern Anatolia,Single,41,Yes
+31488.08,24,20,0,Male,IT,Mediterranean,Married,47,No
+36371.49,56,9,41,Male,Finance,Marmara,Married,44,Yes
+22883.84,18,12,0,Female,Public,Istanbul,Other,36,No
+27875.82,34,13,15,Female,Construction,Central Anatolia,Other,50,No
+33558.34,60,13,41,Female,Public,Eastern Anatolia,Other,45,No
+35009.43,42,16,20,Male,Finance,Marmara,Other,51,No
+31929.08,20,20,0,Male,Public,Istanbul,Other,37,Yes
+24248.37,32,10,16,Male,Construction,Southeastern Anatolia,Married,44,No
+26185.5,46,7,33,Female,Public,Southeastern Anatolia,Married,44,No
+33410.14,60,9,45,Female,Construction,Eastern Anatolia,Married,46,No
+36523.68,49,19,24,Female,Finance,Central Anatolia,Married,38,No
+32929.22,43,16,21,Female,Construction,Istanbul,Single,48,No
+31076.92,33,10,17,Male,IT,Istanbul,Married,55,No
+34179.64,42,18,18,Female,IT,Central Anatolia,Single,47,No
+36297.94,45,19,20,Male,Construction,Central Anatolia,Married,45,No
+28536.67,26,19,1,Male,Services,Central Anatolia,Other,38,No
+29267.7,18,20,0,Female,Agriculture,Southeastern Anatolia,Other,41,No
+29229.26,46,10,30,Male,Services,Eastern Anatolia,Other,45,No
+33465.82,39,17,16,Male,Construction,Marmara,Single,42,Yes
+30443.01,33,13,14,Male,Agriculture,Black Sea,Married,50,Yes
+42005.55,58,19,33,Male,IT,Central Anatolia,Married,48,No
+36981.28,61,17,38,Female,Agriculture,Eastern Anatolia,Single,58,No
+37075.55,58,18,34,Female,Construction,Mediterranean,Single,40,No
+31413.7,24,16,2,Male,IT,Istanbul,Single,45,Yes
+22184.53,31,8,17,Female,Agriculture,Istanbul,Single,38,No
+30605.17,46,15,25,Male,Agriculture,Black Sea,Single,34,No
+34253.72,36,20,10,Female,Services,Black Sea,Other,49,Yes
+33583.11,36,20,10,Female,Agriculture,Aegean,Married,47,Yes
+16697.52,19,6,7,Female,Finance,Mediterranean,Single,41,No
+33228.42,58,8,44,Female,Construction,Marmara,Other,45,No
+30094.4,62,7,49,Female,Manufacturing,Black Sea,Single,42,No
+28520.47,32,17,9,Male,Manufacturing,Central Anatolia,Other,43,No
+29627.91,20,18,0,Female,Manufacturing,Central Anatolia,Single,43,No
+25880.09,28,9,13,Male,Construction,Marmara,Married,41,No
+34952.25,63,14,43,Male,Manufacturing,Southeastern Anatolia,Single,41,No
+33419.33,47,19,22,Female,Services,Mediterranean,Single,42,No
+37881.53,57,17,34,Male,Construction,Central Anatolia,Married,47,No
+28679.14,35,15,14,Female,Finance,Black Sea,Married,31,No
+27476.71,19,15,0,Male,IT,Aegean,Single,44,No
+31250.56,49,14,29,Male,Finance,Eastern Anatolia,Married,40,No
+24783.98,25,11,8,Female,Construction,Istanbul,Married,40,No
+29390.14,39,15,18,Female,Construction,Mediterranean,Other,42,No
+26751.3,23,17,0,Female,Agriculture,Istanbul,Married,45,No
+27327.16,29,19,4,Female,Agriculture,Eastern Anatolia,Married,44,No
+38706.39,64,16,42,Male,Agriculture,Mediterranean,Single,40,No
+39346.64,57,18,33,Female,Public,Black Sea,Single,49,No
+27013.94,53,8,39,Male,Services,Eastern Anatolia,Other,40,No
+27067.19,32,13,13,Male,Construction,Central Anatolia,Single,41,No
+28407.62,45,5,34,Male,Finance,Marmara,Married,46,No
+34779.59,62,10,46,Male,Construction,Central Anatolia,Married,47,No
+29332.32,35,17,12,Male,Agriculture,Black Sea,Married,42,No
+27834.95,19,20,0,Male,Construction,Marmara,Single,30,No
+21937.47,30,7,17,Female,IT,Central Anatolia,Married,41,No
+35789.72,62,12,44,Male,Construction,Eastern Anatolia,Married,46,No
+31022.43,32,18,8,Male,Finance,Eastern Anatolia,Other,48,No
+25445.68,37,9,22,Male,Manufacturing,Eastern Anatolia,Other,45,No
+33615.02,46,15,25,Female,IT,Istanbul,Other,43,No
+41507.49,59,17,36,Female,IT,Black Sea,Single,56,No
+34214.44,46,16,24,Male,Construction,Eastern Anatolia,Married,43,No
+21693.22,20,9,5,Female,Public,Central Anatolia,Married,48,No
+26920.63,36,12,18,Male,Agriculture,Aegean,Married,38,No
+27159.64,20,18,0,Female,Services,Black Sea,Other,40,No
+29197.9,31,15,10,Male,Services,Eastern Anatolia,Married,48,Yes
+30763.36,57,5,46,Female,Manufacturing,Aegean,Married,50,No
+26731.57,21,18,0,Female,Services,Marmara,Married,43,No
+15933.43,28,5,17,Female,Services,Central Anatolia,Married,36,No
+32870.52,48,17,25,Male,Agriculture,Eastern Anatolia,Married,44,No
+34333.47,60,9,45,Male,Agriculture,Istanbul,Single,46,No
+40714.95,49,20,23,Male,Public,Istanbul,Married,45,Yes
+31445.87,44,12,26,Female,Finance,Marmara,Single,42,No
+28998.26,47,11,30,Female,Manufacturing,Aegean,Married,44,No
+31682.84,60,8,46,Male,Services,Southeastern Anatolia,Single,41,No
+24228.81,19,11,2,Female,Public,Istanbul,Married,39,No
+30103.59,26,19,1,Male,Manufacturing,Black Sea,Married,49,No
+40371,45,20,19,Male,IT,Istanbul,Married,45,No
+34422.82,48,12,30,Male,Services,Istanbul,Married,44,Yes
+33141.84,51,13,32,Male,Services,Central Anatolia,Other,42,No
+32226.81,32,17,9,Female,Agriculture,Istanbul,Married,44,Yes
+34627.3,42,19,17,Female,Construction,Mediterranean,Single,46,No
+35464.44,53,15,32,Female,Manufacturing,Eastern Anatolia,Other,54,No
+25236.96,25,12,7,Male,Services,Marmara,Other,48,No
+26633.64,26,13,7,Female,Manufacturing,Istanbul,Married,42,No
+38310.01,54,17,31,Male,Finance,Southeastern Anatolia,Single,42,Yes
+30376.5,62,5,51,Male,Public,Black Sea,Single,41,Yes
+36276.98,56,16,34,Male,Public,Southeastern Anatolia,Other,44,Yes
+34086.13,49,12,31,Male,Construction,Istanbul,Single,41,Yes
+35447.78,34,18,10,Male,Services,Istanbul,Married,47,Yes
+26940.27,52,7,39,Male,Finance,Mediterranean,Married,32,No
+36064.91,54,15,33,Female,Agriculture,Istanbul,Married,48,No
+30567.32,36,14,16,Female,Services,Istanbul,Married,46,No
+36831.34,61,16,39,Female,Manufacturing,Eastern Anatolia,Married,51,No
+27956.72,46,6,34,Female,IT,Southeastern Anatolia,Other,49,No
+27305.46,24,15,3,Male,Public,Mediterranean,Married,42,No
+33683.05,45,15,24,Male,Manufacturing,Southeastern Anatolia,Married,49,No
+24926.59,26,15,5,Female,Construction,Mediterranean,Other,44,No
+29688.95,45,15,24,Female,Public,Southeastern Anatolia,Other,35,No
+27361.69,23,16,1,Female,Agriculture,Istanbul,Other,46,No
+33557.85,46,18,22,Female,Public,Southeastern Anatolia,Single,42,Yes
+24702.82,34,10,18,Female,IT,Southeastern Anatolia,Single,45,No
+32895.73,33,18,9,Female,Finance,Mediterranean,Married,53,Yes
+31431.95,40,14,20,Female,Services,Marmara,Married,46,Yes
+27947.37,48,6,36,Female,IT,Aegean,Married,40,Yes
+20224.09,20,6,8,Male,Finance,Mediterranean,Single,50,No
+29632.05,38,11,21,Male,IT,Mediterranean,Married,47,No
+34358.1,43,18,19,Male,Services,Mediterranean,Married,39,No
+35877.79,53,17,30,Male,Public,Central Anatolia,Single,37,No
+39090.85,59,18,35,Female,Construction,Marmara,Other,40,No
+35138.23,54,14,34,Male,Services,Central Anatolia,Single,49,No
+28923.19,39,13,20,Female,Services,Central Anatolia,Married,43,No
+32882.3,59,8,45,Male,Finance,Mediterranean,Single,45,No
+21511.63,29,11,12,Female,Agriculture,Aegean,Other,38,No
+35883.86,59,13,40,Female,Public,Mediterranean,Other,49,No
+22203.82,30,7,17,Male,Services,Istanbul,Other,35,No
+23550.4,28,9,13,Male,Construction,Aegean,Other,42,No
+27869.64,33,15,12,Female,Manufacturing,Central Anatolia,Other,47,No
+27527.33,25,17,2,Female,Public,Black Sea,Other,39,No
+36595.6,57,20,31,Female,Agriculture,Southeastern Anatolia,Married,48,Yes
+40753.95,57,20,31,Male,IT,Southeastern Anatolia,Married,41,No
+39131.5,62,16,40,Male,Services,Marmara,Single,39,Yes
+23911.17,19,13,0,Female,Construction,Black Sea,Married,51,No
+33790.38,47,16,25,Male,Public,Eastern Anatolia,Other,46,No
+37305.64,47,18,23,Female,Construction,Marmara,Married,48,No
+23119.71,29,7,16,Male,Construction,Aegean,Single,50,No
+22643.14,27,12,9,Male,Finance,Central Anatolia,Other,32,No
+43800.56,61,19,36,Male,IT,Aegean,Married,48,No
+22901.82,28,12,10,Male,Agriculture,Aegean,Married,41,No
+28465.83,32,15,11,Male,Public,Southeastern Anatolia,Single,42,Yes
+28302.27,33,15,12,Female,Services,Mediterranean,Other,47,No
+23291.77,34,9,19,Female,Agriculture,Istanbul,Single,43,No
+28261.54,43,12,25,Male,Services,Eastern Anatolia,Other,48,No
+21572.3,19,11,2,Female,Manufacturing,Central Anatolia,Other,45,No
+21358.83,29,5,18,Female,Construction,Aegean,Married,46,No
+23727.72,43,5,32,Male,Manufacturing,Eastern Anatolia,Single,43,Yes
+32635.44,40,18,16,Female,Finance,Aegean,Single,40,No
+25007.12,35,10,19,Male,Construction,Black Sea,Single,41,Yes
+31563.81,49,14,29,Female,IT,Southeastern Anatolia,Other,44,No
+34001.65,55,11,38,Female,Agriculture,Istanbul,Single,54,No
+41463.95,64,20,38,Female,Services,Southeastern Anatolia,Other,52,No
+21192.06,20,10,4,Female,Finance,Eastern Anatolia,Single,42,Yes
+32894.15,55,13,36,Female,IT,Central Anatolia,Single,45,No
+30095.18,20,19,0,Female,Services,Aegean,Married,44,No
+34074.5,47,19,22,Female,Agriculture,Istanbul,Single,46,No
+22031.53,18,9,3,Male,Public,Black Sea,Married,46,No
+35986.69,47,18,23,Male,Finance,Southeastern Anatolia,Married,48,No
+34791.46,62,13,43,Male,Manufacturing,Black Sea,Other,30,Yes
+31925.53,49,14,29,Male,Manufacturing,Eastern Anatolia,Single,47,No
+27180.84,45,8,31,Female,Services,Southeastern Anatolia,Single,43,Yes
+22332.61,38,6,26,Female,Services,Aegean,Single,41,No
+40805.89,63,17,40,Female,Services,Aegean,Married,49,No
+27662,30,14,10,Male,Finance,Black Sea,Single,52,No
+31883.06,44,13,25,Male,Agriculture,Central Anatolia,Other,48,Yes
+39726.87,53,17,30,Male,Public,Istanbul,Other,42,No
+26101.78,24,18,0,Female,Manufacturing,Mediterranean,Single,40,No
+23822.63,39,8,25,Male,IT,Southeastern Anatolia,Married,30,No
+27443.84,27,15,6,Female,Construction,Aegean,Other,46,No
+29949.75,56,8,42,Male,Finance,Eastern Anatolia,Other,48,No
+28450.89,32,17,9,Female,Finance,Southeastern Anatolia,Married,44,No
+29088.99,32,16,10,Male,Agriculture,Central Anatolia,Other,50,Yes
+31507.06,21,20,0,Female,Manufacturing,Central Anatolia,Married,38,Yes
+29545.8,49,6,37,Male,Public,Aegean,Other,44,No
+24382.92,40,6,28,Male,Agriculture,Aegean,Married,44,No
+23979.04,23,10,7,Female,IT,Black Sea,Other,44,Yes
